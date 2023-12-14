@@ -1,0 +1,1 @@
+一般位于`/%wwwroot%/%typechoroot%/usr/themes/handsome/lang`
